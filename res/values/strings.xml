@@ -7469,6 +7469,10 @@
     <string name="backup_inactive_title">Backup service isn\'t active</string>
     <!-- Default summary text of the "Configure backup account" setting [CHAR LIMIT=80]-->
     <string name="backup_configure_account_default_summary">No account is currently storing backed up data</string>
+    <!-- Local backup entry shown in the ROM backup page. -->
+    <string name="local_app_backup_restore_title">Local app backup and restore</string>
+    <!-- Summary for ROM-provided app backup and restore. -->
+    <string name="local_app_backup_restore_summary">Save APKs and app data as normal tar archives in internal storage</string>
 
     <!-- Dialog title for confirmation to erase backup data from server -->
     <string name="backup_erase_dialog_title"></string>
